@@ -1,0 +1,15 @@
+C:\Users\Sarah\Documents\SWC_22\VS_Progs\Uml2Sarah\Uml2Sarah\bin\Debug\net6.0\Uml2Sarah.exe
+C:\Users\Sarah\Documents\SWC_22\VS_Progs\Uml2Sarah\Uml2Sarah\bin\Debug\net6.0\Uml2Sarah.deps.json
+C:\Users\Sarah\Documents\SWC_22\VS_Progs\Uml2Sarah\Uml2Sarah\bin\Debug\net6.0\Uml2Sarah.runtimeconfig.json
+C:\Users\Sarah\Documents\SWC_22\VS_Progs\Uml2Sarah\Uml2Sarah\bin\Debug\net6.0\Uml2Sarah.dll
+C:\Users\Sarah\Documents\SWC_22\VS_Progs\Uml2Sarah\Uml2Sarah\bin\Debug\net6.0\Uml2Sarah.pdb
+C:\Users\Sarah\Documents\SWC_22\VS_Progs\Uml2Sarah\Uml2Sarah\obj\Debug\net6.0\Uml2Sarah.csproj.AssemblyReference.cache
+C:\Users\Sarah\Documents\SWC_22\VS_Progs\Uml2Sarah\Uml2Sarah\obj\Debug\net6.0\Uml2Sarah.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sarah\Documents\SWC_22\VS_Progs\Uml2Sarah\Uml2Sarah\obj\Debug\net6.0\Uml2Sarah.AssemblyInfoInputs.cache
+C:\Users\Sarah\Documents\SWC_22\VS_Progs\Uml2Sarah\Uml2Sarah\obj\Debug\net6.0\Uml2Sarah.AssemblyInfo.cs
+C:\Users\Sarah\Documents\SWC_22\VS_Progs\Uml2Sarah\Uml2Sarah\obj\Debug\net6.0\Uml2Sarah.csproj.CoreCompileInputs.cache
+C:\Users\Sarah\Documents\SWC_22\VS_Progs\Uml2Sarah\Uml2Sarah\obj\Debug\net6.0\Uml2Sarah.dll
+C:\Users\Sarah\Documents\SWC_22\VS_Progs\Uml2Sarah\Uml2Sarah\obj\Debug\net6.0\refint\Uml2Sarah.dll
+C:\Users\Sarah\Documents\SWC_22\VS_Progs\Uml2Sarah\Uml2Sarah\obj\Debug\net6.0\Uml2Sarah.pdb
+C:\Users\Sarah\Documents\SWC_22\VS_Progs\Uml2Sarah\Uml2Sarah\obj\Debug\net6.0\Uml2Sarah.genruntimeconfig.cache
+C:\Users\Sarah\Documents\SWC_22\VS_Progs\Uml2Sarah\Uml2Sarah\obj\Debug\net6.0\ref\Uml2Sarah.dll
